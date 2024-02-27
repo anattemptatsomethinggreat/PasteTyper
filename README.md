@@ -21,7 +21,7 @@ PasteTyper is a simple Java program that simulates typing by pasting text charac
 4. After 5 seconds, the program will simulate typing the text with random delays and occasional character deletions.
 
 ### Disclaimer
-**This program requires Java to be installed on your system.**
+**This program requires Java 17 or up to be installed on your system.**
 
 -----------------------------------------------------------------------
 
