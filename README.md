@@ -10,7 +10,7 @@ PasteTyper is a simple Java program that simulates typing by pasting text charac
    ```
    cd (folder directory)
    ```
-   The `(folder directory)` should be replaced by your folders directory. Simply drag the folder into the command prompt/terminal window.
+   The `(folder directory)` should be replaced by your folders directory. Simply drag your folder into the command prompt/terminal window.
 4. **Run the program:**<br>Once downloaded, you can run the program using the following command:
    ```
    java -jar PasteTyper.jar
