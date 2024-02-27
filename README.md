@@ -16,8 +16,9 @@ PasteTyper is a simple Java program that simulates typing by pasting text charac
 ### Usage
 
 1. Enter the text you want to paste when prompted. (For new lines use \n and for tabs use \t)
-2. Click on your document after pressing enter in the command prompt
-3. After 3 seconds, the program will simulate typing the text with random delays and occasional character deletions.
+2. Enter a typing speed. 10 is recommended. The higher the number the slower it will type. 
+3. Click on your document after pressing enter in the command prompt
+4. After 5 seconds, the program will simulate typing the text with random delays and occasional character deletions.
 
 ### Disclaimer
 **This program requires Java to be installed on your system.**
