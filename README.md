@@ -2,6 +2,9 @@
 
 PasteTyper is a simple Java program that simulates typing by pasting text character by character with random delays and occasional deletion of characters.
 
+## Disclaimer
+**This program requires Java 17 or up to be installed on your system<br>Java Download Link -->** https://www.oracle.com/java/technologies/downloads/
+
 ## Setup
 
 1. **Download the .jar file:**<br>You can download PasteTyper.jar from the repository
@@ -29,9 +32,6 @@ PasteTyper is a simple Java program that simulates typing by pasting text charac
 3. Focus back on the program and click `ENTER`.
 4. Click on your document after pressing enter in the command prompt
 5. After 5 seconds, the program will simulate typing the text with random delays and occasional character deletions.
-
-## Disclaimer
-**This program requires Java 17 or up to be installed on your system<br>Java Download Link -->** https://www.oracle.com/java/technologies/downloads/
 
 -----------------------------------------------------------------------
 
