@@ -7,7 +7,7 @@ PasteTyper is a simple Java program that simulates typing by pasting text charac
 
 ## Setup
 
-1. **Download the .jar file:**<br>You can download PasteTyper.jar from the repository
+1. **Download the PasteTyper.jar file:**<br>You can download PasteTyper.jar from the repository
 2. **Put file into folder:**<br>Make a new folder on your computer and put the `PasteTyper.jar` file into it.
 3. **Get into the folder directory:**<br>Open your command prompt/terminal and type:
    ```
