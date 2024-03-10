@@ -20,14 +20,8 @@ PasteTyper is a simple Java program that simulates typing by pasting text charac
    ```
 
 ## Usage<br>
-### Windows
-1. Enter the text you want to paste when prompted. (For new lines use \n and for tabs use \t)
-2. Enter a typing speed. 10 is recommended. The higher the number the slower it will type. 
-3. Click where you want it to type after pressing enter in the command prompt.
-4. After 5 seconds, the program will simulate typing the text with random delays and occasional character deletions.
 
-### macOS
-1. Turn on mac mode when prompted.
+1. Answer macOS prompt accordingly
 2. A file will be created in the folder you made called `text.txt`. It should auto-open, if not, just do it manually. Paste your text into this file. **SAVE THE TEXT FILE EDITS** (file > save)
 3. Focus back on the program and press `ENTER`.
 4. Click where you want it to type after pressing enter in the command prompt.
