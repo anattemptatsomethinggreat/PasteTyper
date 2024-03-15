@@ -30,7 +30,7 @@ PasteTyper is a simple Java program that simulates typing by pasting text charac
 
 
 ### Code Mode
-This feature is for using PasteTyper with IDEs or other coding software. Only enable this feature if your coding environment has auto-indenting. This setting will allow for proper formatting while coding. Otherwise, leave this feature off. 
+This feature is for using PasteTyper with IDEs or other coding software. Only enable this feature if your coding environment has auto-indenting. This setting will allow for proper formatting while coding as well as make the typing more realistic. Otherwise, leave this feature off. 
 
 -----------------------------------------------------------------------
 
