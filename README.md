@@ -23,10 +23,9 @@ PasteTyper is a simple Java program that simulates typing by pasting text charac
 
 1. Answer macOS prompt accordingly
 2. Answer Code Mode prompt accordingly. (What is [Code Mode](#code-mode)?)
-3. A file will be created in the folder you made called `text.txt`. It should auto-open, if not, just do it manually. Paste your text into this file. **SAVE THE TEXT FILE EDITS** (file > save)
-4. Focus back on the program and press `ENTER`.
-5. Click where you want it to type after pressing enter in the command prompt.
-6. After 5 seconds, the program will simulate typing the text with random delays and occasional character deletions.
+3. Press 'Open File' and a file will be created in the folder you made called `text.txt`. It should auto-open, if not, just do it manually. Paste your text into this file. **SAVE THE TEXT FILE EDITS** (file > save)
+4. Click where you want it to type after pressing 'Start Typing'
+5. After 5 seconds, the program will simulate typing the text with random delays and occasional character deletions.
 
 
 ### Code Mode
