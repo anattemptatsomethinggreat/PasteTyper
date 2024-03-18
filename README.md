@@ -10,23 +10,15 @@ PasteTyper is a simple Java program that simulates typing by pasting text charac
 If on macOS, before starting, go to System Settings > Privacy and Security > Accessibility and then add and allow `Terminal` to the list (This gives the program its ability to type on your computer)
 
 1. **Download the PasteTyper.jar file:**<br>You can download .jar from the repository
-2. **Put file into folder:**<br>Make a new folder on your computer and put the `PasteTyper.jar` file into it.
-3. **Get into the folder directory:**<br>Open your command prompt/terminal and type:
-   ```
-   cd (folder directory)
-   ```
-   The `(folder directory)` should be replaced by your folders directory. Simply drag your folder into the command prompt/terminal window.
-4. **Run the program:**<br>Once downloaded, you can run the program using the following command:
-   ```
-   java -jar PasteTyper.jar
-   ```
+2. **Run the program:**<br>Once downloaded, you can run the program by clicking on the jar file on your desktop.
 
 ## Usage<br>
 
 1. Answer Code Mode prompt accordingly. (What is [Code Mode](#code-mode)?)
-2. Press 'Open File' and a file will be created in the folder you made called `text.txt`. It should auto-open, if not, just do it manually. Paste your text into this file. **SAVE THE TEXT FILE EDITS** (file > save)
-3. Click where you want it to type after pressing 'Start Typing'
+2. Enter the text you want to type into the text box.
+3. Press `Start Typing` to begin the typing process. Click where you want the pasted text to be typed out.
 4. After 5 seconds, the program will simulate typing the text with random delays and occasional character deletions.
+5. To stop typing, click `Stop Typing`. This will terminate the typing process before completion. 
 
 
 ### Code Mode
