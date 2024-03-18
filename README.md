@@ -12,7 +12,7 @@ PasteTyper is a simple Java program that simulates typing by pasting text charac
 If on macOS, before starting, go to System Settings > Privacy and Security > Accessibility and then add and allow `Terminal` to the list (This gives the program its ability to type on your computer)
 
 1. **Download the PasteTyper.jar file:**<br>You can download the ![PasteTyper.jar](https://github.com/anattemptatsomethinggreat/PasteTyper/raw/main/PasteTyper.jar) from the repository. 
-2. **Run the program:**<br>Once downloaded, you can run the program by clicking on the .jar file
+2. **Run the program:**<br>Once downloaded, you can run the program by clicking on the .jar file.
 
 ## Usage<br>
 
