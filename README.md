@@ -5,7 +5,7 @@ PasteTyper is a simple Java program that simulates typing by pasting text charac
 ![image](https://github.com/anattemptatsomethinggreat/PasteTyper/assets/89958318/fced1986-a8c6-4cb6-89a0-744782bff6b8)
 
 ## Disclaimer
-**This program requires Java 17 or up to be installed on your system<br>Java Download Link -->** https://www.oracle.com/java/technologies/downloads/
+**This program requires Java 21 to be installed on your system<br>Java Download Link -->** https://www.oracle.com/java/technologies/downloads/
 
 ## Setup
 
@@ -13,6 +13,7 @@ If on macOS, before starting, go to System Settings > Privacy and Security > Acc
 
 1. **Download the PasteTyper.jar file:**<br>You can download the ![PasteTyper.jar](https://github.com/anattemptatsomethinggreat/PasteTyper/raw/main/PasteTyper.jar) from the repository. 
 2. **Run the program:**<br>Once downloaded, you can run the program by clicking on the .jar file.
+3. **Running manually:**<br>Open terminal and type `java - jar `, then drag the PasteTyper.jar file from your downloads into the terminal window. Press enter.
 
 ## Usage<br>
 
