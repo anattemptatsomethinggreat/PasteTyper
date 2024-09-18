@@ -20,7 +20,7 @@ If on macOS, before starting, go to System Settings > Privacy and Security > Acc
 1. Answer Code Mode prompt accordingly. (What is [Code Mode](#code-mode)?)
 2. Enter the text you want to type into the text box.
 3. Press `Start Typing` to begin the typing process. Click where you want the pasted text to be typed out.
-4. After 5 seconds, the program will simulate typing the text with random delays and occasional character deletions.
+4. After 3 seconds, the program will simulate typing the text with random delays and occasional character deletions.
 5. To stop typing, click `Stop Typing`. This will terminate the typing process before completion. 
 
 
