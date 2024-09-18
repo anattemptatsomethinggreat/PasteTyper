@@ -13,7 +13,7 @@ If on macOS, before starting, go to System Settings > Privacy and Security > Acc
 
 1. **Download the PasteTyper.jar file:**<br>You can download the ![PasteTyper.jar](https://github.com/anattemptatsomethinggreat/PasteTyper/raw/main/PasteTyper.jar) from the repository. 
 2. **Run the program:**<br>Once downloaded, you can run the program by clicking on the .jar file.
-3. **Running manually:**<br>Open terminal/command prompt and type `java - jar `, then drag the PasteTyper.jar file from your downloads into the terminal/command prompt window. Press enter.
+3. **Running manually:**<br>Open terminal/command prompt and type `java -jar `, then drag the PasteTyper.jar file from your downloads into the terminal/command prompt window. Press enter.
 
 ## Usage<br>
 
